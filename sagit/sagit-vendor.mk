@@ -125,6 +125,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_preview.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_snapshot.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_video_4k.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_video_4k.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_imx386_semco_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx386_semco_zsl_preview.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx386_semco_hfr_240_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx386_semco_hfr_240_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_zsl_preview_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx268_liteon_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx268_liteon_zsl_video_3a.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libchromatix_sagit_imx386_semco_4K_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sagit_imx386_semco_4K_preview.so \
